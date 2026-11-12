@@ -1,0 +1,6 @@
+{
+  "name": "Court Timer",
+  "description": "Precision legal courtroom speaking time tracker for Judge, Plaintiff, and Defendant with active speaker toggles, time limits, and session analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
